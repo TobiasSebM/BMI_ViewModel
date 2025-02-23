@@ -1,2 +1,2 @@
-# Assignment for Week 7 #
-AI has been used
+'Task Week 7'
+BMI calculator with implementation of ViewModel
